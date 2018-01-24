@@ -11,7 +11,7 @@ public class Calculate {
      * Main.
      * @param args - args.
      */
-	public static void main (String[] args) {
+	public static void main(String[] args) {
 		Calculate calc = new Calculate();
 		System.out.println(calc.echo("one"));
 	}
@@ -21,7 +21,7 @@ public class Calculate {
      * @return Echo plus your name.
      */
 		public String echo(String value) {
-    return String.format ("%s, %s, %s", value, value, value);
+    return String.format("%s, %s, %s", value, value, value);
 	}
 	
 }
