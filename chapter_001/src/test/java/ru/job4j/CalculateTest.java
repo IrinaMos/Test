@@ -16,8 +16,7 @@ public class CalculateTest {
 	public void whenSetStopInEchoThenReturnThreeStops() {
     Calculate calc = new Calculate();
     String result = calc.echo("stop");
-    assertThat(result, is("stop, stop, stop"));
-}
+    assertThat(result, is("stop, stop, stop")); }
  
 }
  

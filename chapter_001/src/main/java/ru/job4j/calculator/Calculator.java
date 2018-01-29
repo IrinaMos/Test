@@ -22,8 +22,7 @@ public class Calculator {
 			this.result = first3 * second3;
 		}
 
-		public double getResult()
-		{
+		public double getResult() {
 			return this.result;
 		}
 
