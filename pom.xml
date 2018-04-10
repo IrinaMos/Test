@@ -14,7 +14,7 @@
      </properties>
 
     <modules>
-       <module>chapter_001</module>
+       <module>mybot</module>
      </modules>
 	 
 	 <dependencies>
