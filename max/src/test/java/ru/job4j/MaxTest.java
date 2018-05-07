@@ -17,6 +17,7 @@ public class MaxTest {
     public void whenFirstLessSecond() {
         Max maxim = new Max();
         int result = maxim.max(1, 2);
+        System.out.println (result);
         assertThat(result, is(2));
     }
 }

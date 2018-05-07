@@ -14,7 +14,7 @@
      </properties>
 
     <modules>
-       <module>mybot</module>
+       <module>max</module>
      </modules>
 	 
 	 <dependencies>
