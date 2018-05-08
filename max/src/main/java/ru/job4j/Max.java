@@ -18,5 +18,7 @@ public class Max {
 //        return (second);
     }
 
-
+	public int summation(int first, int second){
+            return first + second;
+        }
 }
